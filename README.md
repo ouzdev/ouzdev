@@ -12,9 +12,7 @@ Yazılım ile lise yıllarım da tanıştım. Web tasarım bölümü öğrencisi
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ouzdev" alt="ouzdev" /></a> </p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Beni takip et & iletişime geç:</h3>
 <p align="left">
