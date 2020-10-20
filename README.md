@@ -1,6 +1,14 @@
 <h1 align="center">Merhaba👋, Ben Oğuzcan Genç</h1> <br>
 
-<h4>I started to be interested in computer technologies in my primary school years. In the following process, this interest started to shift to the working logic of the computer, that is, the hardware. For some reason I liked dealing with electronic devices and disassembling them. And I improved myself in this area. The ongoing process took me towards software. I met the software in my high school years. I was a web design student. In those years, I built and sold static sites and I earned my first money this way. I was both enjoying my work and earning money. During my university associate degree education, I produced projects and got a degree in competitions. In this way, I improved myself further. Now I continue my way with Microsoft .Net technologies. I am both learning and transferring what I have learned to others. For this, you can follow me on my medium profile.</h4>
+<h4>İlkokul yıllarımda bilgisayar teknolojilerine ilgi duymaya başladım.
+Sonrasında gelişen süreçte bu ilgi bilgisayarın çalışma mantığına yani donanıma kaymaya başladı. Elektronik cihazlarla uğraşmak söküp takmak nedense çok hoşuma gidiyordu. Ve bu alanda kendi kendimi geliştirdim. İlerleyen süreç beni yazılıma doğru götürdü.
+
+Yazılım ile lise yıllarım da tanıştım. Web tasarım bölümü öğrencisiydim. O yıllarda statik siteler yapıp sattım ve ilk paramı bu şekilde kazanmıştım. Hem yaptığım işten zevk alıyordum hemde para kazanıyordum.
+
+Üniversite önlisans eğitimi esnasında ise projeler ürettim yarışmalarda derece sahibi oldum. Bu sayede kendimi daha da geliştirdim.
+
+Şimdi ise Microsoft .Net teknolojileri ile yoluma devam etmekteyim. Hem öğreniyor hemde öğrendiklerimi başkalarına aktarıyorum. Bunun için beni medium profilimden takip edebilirsin.
+</h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ouzdev" alt="ouzdev" /></a> </p>
 
