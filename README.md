@@ -8,7 +8,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Beni Takipt & İletişime Geç:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/oguzcan-genc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="oguzcan-genc" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12813338" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12813338" height="30" width="40" /></a>
