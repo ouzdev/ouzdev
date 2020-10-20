@@ -18,7 +18,7 @@ Yazılım ile lise yıllarım da tanıştım. Web tasarım bölümü öğrencisi
 <p align="left">
 <a href="https://linkedin.com/in/oguzcan-genc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="oguzcan-genc" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12813338" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="12813338" height="30" width="40" /></a>
-<a href="https://instagram.com/oguzcan.genc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="oguzcan.genc" height="30" width="40" /></a>
+<a href="https://instagram.com/_oguzcangenc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="oguzcan.genc" height="30" width="40" /></a>
 <a href="https://medium.com/@oguzcangenc" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@oguzcangenc" height="30" width="40" /></a>
 </p>
 
