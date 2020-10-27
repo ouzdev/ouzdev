@@ -9,6 +9,7 @@ Yazılım ile lise yıllarım da tanıştım. Web tasarım bölümü öğrencisi
 
 Şimdi ise Microsoft .Net teknolojileri ile yoluma devam etmekteyim. Hem öğreniyor hemde öğrendiklerimi başkalarına aktarıyorum. Bunun için beni medium profilimden takip edebilirsin.
 </h4>
+[![Ouzdev's github stats](https://github-readme-stats.vercel.app/api?username=ouzdev)](https://github.com/ouzdev/ouzdev)
 
 
 
