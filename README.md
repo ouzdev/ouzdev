@@ -10,7 +10,6 @@ Yazılım ile lise yıllarım da tanıştım. Web tasarım bölümü öğrencisi
 Şimdi ise Microsoft .Net teknolojileri ile yoluma devam etmekteyim. Hem öğreniyor hemde öğrendiklerimi başkalarına aktarıyorum. Bunun için beni medium profilimden takip edebilirsin.
 </h4>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ouzdev" alt="ouzdev" /></a> </p>
 
 
 
