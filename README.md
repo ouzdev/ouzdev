@@ -1,13 +1,6 @@
 <h1 align="center">Merhaba👋, Ben Oğuzcan Genç</h1> <br>
 
-<h4>İlkokul yıllarımda bilgisayar teknolojilerine ilgi duymaya başladım.
-Sonrasında gelişen süreçte bu ilgi bilgisayarın çalışma mantığına yani donanıma kaymaya başladı. Elektronik cihazlarla uğraşmak söküp takmak nedense çok hoşuma gidiyordu. Ve bu alanda kendi kendimi geliştirdim. İlerleyen süreç beni yazılıma doğru götürdü.
-
-Yazılım ile lise yıllarım da tanıştım. Web tasarım bölümü öğrencisiydim. O yıllarda statik siteler yapıp sattım ve ilk paramı bu şekilde kazanmıştım. Hem yaptığım işten zevk alıyordum hemde para kazanıyordum.
-
-Üniversite önlisans eğitimi esnasında ise projeler ürettim yarışmalarda derece sahibi oldum. Bu sayede kendimi daha da geliştirdim.
-
-Şimdi ise Microsoft .Net teknolojileri ile yoluma devam etmekteyim. Hem öğreniyor hemde öğrendiklerimi başkalarına aktarıyorum. Bunun için beni medium profilimden takip edebilirsin.
+<h4> Özel bir şirkette Web geliştiricisi olarak çalışıyorum. .Net Core, Entity Framework, Dapper, MSSQL, PostgreSQL, Entity Framework, Redis, Vue.Js, Bootstrap, JS vb. teknolojilerini kullanarak geliştirmeler yapıyorum. Şuan da kendimi geliştirmek ve farklı teknolojileri öğrenerek yoluma devam ediyorum bunların başında Mobil (Android Native) Node.JS, Machine Learning gibi konularda kendime deneyim katıyorum. Repolarım arasında bu zamana kadar geliştrdiğim bazı örneklere ulaşabilirsiniz. Bahsetmiş olduğum konularda sorularınız olursa sormaktan çekinmezsiniz diye düşünüyorum. Görüşmek üzere 👋
 </h4>
 
 
