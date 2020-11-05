@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba👋, Ben Oğuzcan Genç</h1> <br>
 
-<h4> Özel bir şirkette Yazılım Geliştiricisi olarak çalışıyorum. .Net Core, Nop Commerce, Entity Framework, Dapper, MSSQL, PostgreSQL, Entity Framework, Redis, Vue.Js, Bootstrap, JS vb. teknolojilerini kullanarak, tek bir platforma veya programlama diline bağımlı olmadan kendimi ihtiyaçlar doğrultusunda geliştiriyorum.<br><br>
-  Uzmanlık alanım C# dili ve Asp.Net Core platformudur. <br><br>  
+<h4> Özel bir şirkette Yazılım Geliştiricisi olarak çalışıyorum. .Net Core, Nop Commerce, Entity Framework, Dapper, MSSQL, PostgreSQL, Entity Framework, Redis, Vue.Js, Bootstrap, JS vb. teknolojilerini kullanarak, tek bir platforma veya programlama diline bağımlı olmadan kendimi ihtiyaçlar doğrultusunda gelişiyor ve yazılımlar geliştiriyorum.<br><br>
+  Uzmanlık alanım C# dili ve Asp.Net Core platformu olmakla beraber iş hayatımda bu platformları kullanarak geliştirmeler yapıyorum. <br><br>  
   Şuan da kendimi geliştirmek ve farklı teknolojileri öğrenerek yoluma devam ediyorum bunların başında Mobil (Android Native) Node.JS, Machine Learning gibi konularda kendime deneyim katıyorum. Repolarım arasında bu zamana kadar geliştrdiğim bazı örneklere ulaşabilirsiniz. <br><br>
   Bahsetmiş olduğum konularda sorularınız olursa sormaktan çekinmezsiniz diye düşünüyorum. Görüşmek üzere 👋
 </h4>
