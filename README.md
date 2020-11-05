@@ -4,7 +4,7 @@
   Uzmanlık alanım C# dili ve Asp.Net Core platformu olmakla beraber iş hayatımda bu platformları kullanarak geliştirmeler yapıyorum. <br><br>  
   Şuan da kendimi geliştirmek ve farklı teknolojileri öğrenerek yoluma devam ediyorum bunların başında Mobil (Android Native) Node.JS, Machine Learning gibi konularda kendime deneyim katıyorum. Repolarım arasında bu zamana kadar geliştrdiğim bazı örneklere ulaşabilirsiniz. <br><br>
   Bahsetmiş olduğum konularda sorularınız olursa sormaktan çekinmezsiniz diye düşünüyorum. Mail adresimden bana ulaşabilirsiniz. Görüşmek üzere 👋<br><br>
-  E-Mail : oguzcangencc@hotmail.com
+  E-Mail : <a href="/mailto:oguzcangencc@hotmail.com ">oguzcangencc@hotmail.com</a>
 </h4>
 
 
