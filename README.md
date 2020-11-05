@@ -2,7 +2,7 @@
 
 <h4> Özel bir şirkette Yazılım Geliştiricisi olarak çalışıyorum. <br><br>.Net Core, Nop Commerce, Entity Framework, Dapper, MSSQL, PostgreSQL, Entity Framework, Redis, Vue.Js, Bootstrap, JS vb. teknolojilerini kullanarak, tek bir platforma veya programlama diline bağımlı olmadan ihtiyaçlar doğrultusunda uygun bir teknoloji tercih ederek yazılım geliştiriyorum.<br><br>
   Uzmanlık alanım C# dili ve Asp.Net Core platformu olmakla beraber iş hayatımda bu platformları kullanarak geliştirmeler yapıyorum. <br><br>  
-  Şuan da kendimi geliştirmek ve farklı teknolojileri öğrenerek yoluma devam ediyorum bunların başında Mobil (Android Native) Node.JS, Machine Learning gibi konularda kendime deneyim katıyorum. Repolarım arasında bu zamana kadar geliştrdiğim bazı örneklere ulaşabilirsiniz. <br><br>
+  Şuan da kendimi geliştirerek ve farklı teknolojileri öğrenerek yoluma devam ediyorum bunların başında Mobil Uygulama, Node.JS, Machine Learning gibi konularda kendime deneyim katıyorum. Repolarım arasında bu zamana kadar geliştrdiğim bazı örneklere ulaşabilirsiniz. <br><br>
   Bahsetmiş olduğum konularda sorularınız olursa sormaktan çekinmezsiniz diye düşünüyorum. Mail adresimden bana ulaşabilirsiniz. Görüşmek üzere 👋<br><br>
   E-Mail : <a href="/mailto:oguzcangencc@hotmail.com ">oguzcangencc@hotmail.com</a>
 </h4>
