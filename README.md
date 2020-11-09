@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba👋, Ben Oğuzcan Genç</h1> <br>
+<h1 align="center">Merhaba👋, Ben Oğuzcan Genç</h1>
 
 <h4> Özel bir şirkette Yazılım Geliştiricisi olarak çalışıyorum. <br><br>.Net Core, Nop Commerce, Entity Framework, Dapper, MSSQL, PostgreSQL, Entity Framework, Redis, Vue.Js, Bootstrap, JS vb. teknolojilerini kullanarak, tek bir platforma veya programlama diline bağımlı olmadan ihtiyaçlar doğrultusunda uygun bir teknoloji tercih ederek yazılım geliştiriyorum.<br><br>
   Uzmanlık alanım C# dili ve Asp.Net Core platformu olmakla beraber iş hayatımda bu platformları kullanarak geliştirmeler yapıyorum. <br><br>  
