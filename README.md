@@ -1,5 +1,5 @@
 
-<center>[![](https://i.ibb.co/MfGkVJ6/banner.jpg)](https://i.ibb.co/MfGkVJ6/banner.jpg)
+[![](https://i.ibb.co/MfGkVJ6/banner.jpg)](https://i.ibb.co/MfGkVJ6/banner.jpg)
 
 
 
@@ -12,4 +12,3 @@ A passionate Jr. Software Developer from Antalya</p><p align='left'> You can vie
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ouzdev&show_icons=true&include_all_commits=true)](https://github.com/ouzdev/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouzdev&layout=compact)](https://github.com/ouzdev/github-readme-stats)
-</center>
