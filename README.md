@@ -6,8 +6,8 @@
 ## Hi 👋, I'm  Oğuzcan Genç
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ouzdev alt=ouzdev /> </p>
 
-[![Gmail Badge](https://img.shields.io/badge/-mail@oguzcangenc.com.tr-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mail@oguzcangenc.com.tr)](mailto:mail@oguzcangenc.com.tr) 
-[![Linkedin Badge](https://img.shields.io/badge/-oguzcangenc-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oguzcangenc/)](https://www.linkedin.com/in/oguzcan-genc/) [![Github Badge](https://img.shields.io/badge/-ouzdev-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ouzdev/)](https://www.github.com/ouzdev/) [![Twitter Badge](https://img.shields.io/badge/-BerkeleyBlue-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/ouzdev_/)](https://www.twitter.com/ouzdev_/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=oguzcangenc.com.tr/blog/)](https://oguzcangenc.com/blog/) <p align='left'>Hi, I’m Oğuzcan Genç
+[![Gmail Badge](https://img.shields.io/badge/-oguzcangencc@hotmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:oguzcangencc@hotmail.com)](mailto:mail@oguzcangenc.com.tr) 
+[![Linkedin Badge](https://img.shields.io/badge/-oguzcangenc-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oguzcangenc/)](https://www.linkedin.com/in/oguzcan-genc/) [![Github Badge](https://img.shields.io/badge/-ouzdev-grey?style=flat&logo=github&logoColor=white&link=https://github.com/ouzdev/)](https://www.github.com/ouzdev_/) [![Twitter Badge](https://img.shields.io/badge/-ouzdev-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/ouzdev_/)](https://www.twitter.com/ouzdev_/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=oguzcangenc.com.tr/blog/)](https://oguzcangenc.com/blog/) <p align='left'>Hi, I’m Oğuzcan Genç
 A passionate Jr. Software Developer from Antalya</p><p align='left'> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
