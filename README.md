@@ -1,8 +1,3 @@
-
-[![](https://i.ibb.co/MfGkVJ6/banner.jpg)](https://i.ibb.co/MfGkVJ6/banner.jpg)
-
-
-
 ## Hi 👋, I'm  Oğuzcan Genç
 <p align=left> <img src=https://komarev.com/ghpvc/?username=ouzdev alt=ouzdev /> </p>
 
