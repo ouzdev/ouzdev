@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oğuzcan Genç</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">Software Developer</h3>
 
 - 🔭 I’m currently working on [Odws Note App](https://github.com/ouzdev/Odws)
 
