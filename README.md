@@ -1,14 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oğuzcan Genç</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on [Odws Note App](https://github.com/ouzdev/Odws)
-
-- 🌱 I’m currently learning **Patika Protein Tech .Net Bootcamp**
-
-- 👯 I’m looking to collaborate on [Tasarım Desenleri Türkçe Kaynak](https://github.com/yusufyilmazfr/tasarim-desenleri-turkce-kaynak)
-
-- 🤝 I’m looking for help with [Odws Note App](https://github.com/ouzdev/Odws)
-
 - 👨‍💻 All of my projects are available at [www.oguzcangenc.com](www.oguzcangenc.com)
 
 - 📝 I regularly write articles on [https://oguzcangenc.com/blog/](https://oguzcangenc.com/blog/)
